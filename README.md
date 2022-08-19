@@ -1,4 +1,4 @@
-                              ![MasterHead](https://media3.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif)
+![MasterHead]                  (https://media3.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif)
 
 
 
