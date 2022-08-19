@@ -1,4 +1,5 @@
-![MasterHead justify='center'](https://media3.giphy.com/media/rC3bHMY2s8w3Fuz6Mm/giphy.gif)
+![MasterHead]()
+<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/rC3bHMY2s8w3Fuz6Mm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/DataCamp-ai-artificial-intelligence-artificialintelligence-rC3bHMY2s8w3Fuz6Mm">via GIPHY</a></p>
 
 
 <h1 align="center">Hi 👋, I'm Shorya Tyagi</h1>
