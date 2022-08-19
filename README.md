@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/507716_d3a204604f0841be90e9d1e6c5d916e9~mv2.gif)]
+![MasterHead](https://static.wixstatic.com/media/507716_d3a204604f0841be90e9d1e6c5d916e9~mv2.gif)]
 
 
 <h1 align="center">Hi 👋, I'm Shorya Tyagi</h1>
