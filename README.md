@@ -1,4 +1,4 @@
-![MasterHead](https://media3.giphy.com/media/rC3bHMY2s8w3Fuz6Mm/giphy.gif)]
+![MasterHead justify='center'](https://media3.giphy.com/media/rC3bHMY2s8w3Fuz6Mm/giphy.gif)
 
 
 <h1 align="center">Hi 👋, I'm Shorya Tyagi</h1>
