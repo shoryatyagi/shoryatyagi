@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋, I'm Shorya Tyagi</h1>
 <div align="center">
 <img align="center" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47n2h2v0vhnhcvdjv57pmhpwx7e9szm7cxbnfnizeg&rid=giphy.gif&ct=g"/></div>
-<h1 align="center">Hi 👋, I'm Shorya Tyagi</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 
