@@ -1,4 +1,4 @@
-\t\t\t\t  ![MasterHead](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47n2h2v0vhnhcvdjv57pmhpwx7e9szm7cxbnfnizeg&rid=giphy.gif&ct=g)
+  ![MasterHead](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47n2h2v0vhnhcvdjv57pmhpwx7e9szm7cxbnfnizeg&rid=giphy.gif&ct=g)
 
 
 
