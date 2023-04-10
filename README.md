@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shorya Tyagi</h1>
 <div align="center">
 
-<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif" style="border-radius: 50%;"/></div>
+<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif" style="border-radius: 80%;"/>
+</div>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 <hr>
