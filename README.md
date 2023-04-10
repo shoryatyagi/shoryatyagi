@@ -20,9 +20,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shoryatyagi&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 </p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shoryatyagi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoryatyagi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoryatyagi&theme=dark&hide_border=true" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryatyagi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats"/>
+</p>
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=shorya_mindset)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
