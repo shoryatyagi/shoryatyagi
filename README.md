@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryatyagi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats"/>
 </p>
 
-## 🐦 Latest Tweet <br>
+## 🐦 Latest Tweet <hr>
 
 <p align="center">
 
