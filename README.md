@@ -49,7 +49,7 @@
 ## 🐦 Latest Tweet 
 <p align="center">
 <a href="https://twitter.com/shorya_mindset">
-<img src="https://gtce.itsvg.in/api?username=shorya_mindset&hide_border=true"/>
+<img src="https://gtce.itsvg.in/api?username=shorya_mindset&theme=dark&hide_border=true"/>
   </a>
   </p>
 
