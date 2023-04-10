@@ -28,6 +28,9 @@
 </p>
 
 ## 🐦 Latest Tweet
+<p align="center">
+  <img src=(https://gtce.itsvg.in/api?username=shorya_mindset" alt="](https://github.com/VishwaGauravIn/github-twitter-card-embed)"/>
+</p>
 [![](https://gtce.itsvg.in/api?username=shorya_mindset)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
