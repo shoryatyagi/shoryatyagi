@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoryatyagi&label=Profile%20views&color=0e75b6&style=flat" alt="shoryatyagi" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=shoryatyagi&icon=0&color=7" alt="shoryatyagi" /> </p>
 
 # 💫 About Me:
 👋 Hi there! I'm a college student pursuing B.Tech( Cmputer Science).<br>👨‍💻 I'm a developer who's always learning and growing. Right now, I'm focused on Python and data structures.<br>🌱 Each day, I'm making progress and gaining more knowledge.<br>🤝 I love collaborating with other developers and learning from others.<br>🧐 I'm interested in tech-related topics such as machine learning, AI, and data science.<br>🎉 I'm passionate about coding and enjoy working on different projects.<br>
