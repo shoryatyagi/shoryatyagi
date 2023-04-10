@@ -28,9 +28,10 @@
 </p>
 
 ## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=shorya_mindset)]()
 <p align="center">
-<a href="https://twitter.com/shorya_mindset">
-  <img align="center" src="https://twitter-readme-badge.vercel.app/api/username/shorya_mindset?count=1&exclude_replies=true&hide_followers=true&hide_rank=true&hide_title=true&hide_border=true&langs_count=1&layout=compact" alt="Latest Tweet by shorya_mindset">
+<a href="https://gtce.itsvg.in/api?username=shorya_mindset">
+  <img align="center" src="https://github.com/VishwaGauravIn/github-twitter-card-embed" alt="Latest Tweet by shorya_mindset">
 </a>
 </p>
 
