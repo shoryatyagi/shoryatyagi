@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shoryatyagi&theme=react-dark&hide_border=true&area=true"/>
 </p>
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=shoryatyagi&theme=react-dark&hide_border=true&area=true)
+
 <p align ="center">
    <img src="github-contribution-grid-snake.svg"/>
     </p>
@@ -54,7 +54,6 @@
   </a>
   </p>
 
-
 ## ✍️ Random Dev Quote
 <p align="center">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -64,7 +63,6 @@
 <p align="center">
   <img src="https://rm.up.railway.app/" width="512px"/>
 </p>
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
