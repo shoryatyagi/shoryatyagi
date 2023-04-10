@@ -42,7 +42,9 @@
 </p>
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<p align="center">
+  <img src="https://rm.up.railway.app/" width="512px"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shoryatyagi&icon=0&color=7)](https://visitcount.itsvg.in)
