@@ -29,9 +29,10 @@
 
 ## 🐦 Latest Tweet
 <p align="center">
-  <img src=(https://gtce.itsvg.in/api?username=shorya_mindset" alt="](https://github.com/VishwaGauravIn/github-twitter-card-embed)"/>
+<a href="https://twitter.com/shorya_mindset">
+  <img align="center" src="https://twitter-readme-badge.vercel.app/api/username/shorya_mindset?count=1&exclude_replies=true&hide_followers=true&hide_rank=true&hide_title=true&hide_border=true&langs_count=1&layout=compact" alt="Latest Tweet by shorya_mindset">
+</a>
 </p>
-[![](https://gtce.itsvg.in/api?username=shorya_mindset)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
