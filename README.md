@@ -45,7 +45,10 @@
 <p align ="center">
    <img src="github-contribution-grid-snake.svg"/>
     </p>
-
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
 ## 🐦 Latest Tweet 
 
 <p align="center">
