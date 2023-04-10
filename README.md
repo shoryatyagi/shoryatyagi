@@ -28,9 +28,12 @@
 </p>
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=shorya_mindset)]()
+
 <p align="center">
+
+<a href="https://twitter.com/shorya_mindset">
 <img src="https://gtce.itsvg.in/api?username=shorya_mindset"/>
+  </a>
   </p>
 
 ### ✍️ Random Dev Quote
