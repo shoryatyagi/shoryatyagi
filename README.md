@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shoryatyagi&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shoryatyagi&theme=react-dark&hide_border=true"/>
 </p>
 
 <p align ="center">
@@ -49,7 +49,7 @@
 ## 🐦 Latest Tweet 
 <p align="center">
 <a href="https://twitter.com/shorya_mindset">
-<img src="https://gtce.itsvg.in/api?username=shorya_mindset&theme=dark"/>
+<img src="https://gtce.itsvg.in/api?username=shorya_mindset&theme=dark&hide_border=true"/>
   </a>
   </p>
 
