@@ -49,13 +49,13 @@
 ## 🐦 Latest Tweet 
 <p align="center">
 <a href="https://twitter.com/shorya_mindset">
-<img src="https://gtce.itsvg.in/api?username=shorya_mindset&theme=dark&hide_border=true"/>
+<img src="https://gtce.itsvg.in/api?username=shorya_mindset&theme=react-dark&hide_border=true&area=true"/>
   </a>
   </p>
 
 ## ✍️ Random Dev Quote
 <p align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ## 😂 Random Dev Meme
