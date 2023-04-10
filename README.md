@@ -45,7 +45,6 @@
   <img src="https://rm.up.railway.app/" width="512px"/>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=shoryatyagi&icon=0&color=7)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
