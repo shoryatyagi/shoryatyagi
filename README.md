@@ -4,7 +4,7 @@
 <img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif" style="border-radius: 80%;"/>
 </div>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Tech Enthusiast and Developer from India</h3>
 <hr>
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=shoryatyagi&icon=0&color=7" alt="shoryatyagi" /> </p>
