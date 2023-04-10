@@ -39,8 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryatyagi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats"/>
 </p>
 <p align ="center"
-    ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
-</p>
+   <img src="github-contribution-grid-snake.svg"/>
+    </p>
 
 ## 🐦 Latest Tweet 
 
@@ -53,7 +53,7 @@
 
 ## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ## 😂 Random Dev Meme
