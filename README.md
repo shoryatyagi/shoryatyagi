@@ -38,6 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryatyagi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats"/>
 </p>
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 ## 🐦 Latest Tweet 
 
@@ -46,7 +47,7 @@
 <img src="https://gtce.itsvg.in/api?username=shorya_mindset"/>
   </a>
   </p>
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
 
 ## ✍️ Random Dev Quote
 <p align="center">
