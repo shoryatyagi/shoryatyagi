@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shorya Tyagi</h1>
 <div align="center">
-   <style>
- .image{
+<style>
+ image{
       border-radius: 50%;
       border: 3px solid #ccc;
       padding: 5px;
