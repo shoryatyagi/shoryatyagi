@@ -27,21 +27,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryatyagi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats"/>
 </p>
 
-## 🐦 Latest Tweet <hr>
+## 🐦 Latest Tweet 
 
 <p align="center">
-
 <a href="https://twitter.com/shorya_mindset">
 <img src="https://gtce.itsvg.in/api?username=shorya_mindset"/>
   </a>
   </p>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <p align="center">
   <img src="https://rm.up.railway.app/" width="512px"/>
 </p>
