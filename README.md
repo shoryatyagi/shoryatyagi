@@ -45,9 +45,8 @@
    <img src="github-contribution-grid-snake.svg"/>
     </p>
 
-<br/>
-## 🐦 Latest Tweet 
 
+## 🐦 Latest Tweet 
 <p align="center">
 <a href="https://twitter.com/shorya_mindset">
 <img src="https://gtce.itsvg.in/api?username=shorya_mindset"/>
