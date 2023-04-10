@@ -44,9 +44,7 @@
 <p align ="center">
    <img src="github-contribution-grid-snake.svg"/>
     </p>
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
-</details>
 <br/>
 ## 🐦 Latest Tweet 
 
