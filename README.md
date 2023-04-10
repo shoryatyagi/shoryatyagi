@@ -31,6 +31,13 @@
 # 📊 GitHub Stats:
 
 
+<details open="">
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoryatyagi&theme=dark&count_private=true&include_all_commits=true&hide_border=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryatyagi&theme=dark&layout=compact&hide_border=true" />
+</p>
+</details>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoryatyagi&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </p>
