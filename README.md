@@ -31,7 +31,7 @@
 [![](https://gtce.itsvg.in/api?username=shorya_mindset)]()
 <p align="center">
 <a href="https://gtce.itsvg.in/api?username=shorya_mindset">
-  <img align="center" src="https://github.com/VishwaGauravIn/github-twitter-card-embed" alt="Latest Tweet by shorya_mindset">
+  <img align="center" src="https://github.com/VishwaGauravIn/github-twitter-card-embed" >
 </a>
 </p>
 
