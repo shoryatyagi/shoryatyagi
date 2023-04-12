@@ -7,7 +7,10 @@
 <h3 align="center">A Tech Enthusiast and Developer from India</h3>
 <hr>
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=shoryatyagi&icon=0&color=7" alt="shoryatyagi" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shoryatyagi/count.svg" />
+</p>
 
 
     - 👋 Hi there! I'm a college student pursuing B.Tech (Cmmputer Science). 
