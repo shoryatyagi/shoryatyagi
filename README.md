@@ -8,7 +8,7 @@
 <hr>
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/shoryatyagi/count.svg" />
 </p>
 
