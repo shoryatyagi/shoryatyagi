@@ -41,6 +41,9 @@
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryatyagi&theme=dark&layout=compact&hide_border=true"/>
 </p>
 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shoryatyagi&theme=react-dark&hide_border=true"/>
+</p>
 
 <p align='center'>
 <a href="https://github.com/AVS1508">
@@ -50,17 +53,8 @@
 </p>
 
 
-
-
-
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoryatyagi&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shoryatyagi&theme=react-dark&hide_border=true"/>
 </p>
 
 <p align ="center">
