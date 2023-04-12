@@ -53,7 +53,7 @@
    <img src="github-contribution-grid-snake.svg"/>
     </p>
 
-
+<!--
 ## 🐦 Latest Tweet 
 <p align="center">
 <a href="https://twitter.com/shorya_mindset">
@@ -66,6 +66,7 @@
 <p align="center">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
+-->
 
 ## 😂 Random Dev Meme
 <p align="center">
