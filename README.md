@@ -13,7 +13,7 @@
 </p>
 
 
-    - 👋 Hi there! I'm a college student pursuing B.Tech (Cmmputer Science). 
+    - 👋 Hi there! I'm a college student pursuing B.Tech (Computer Science). 
     
     - 👨‍💻 I'm a developer who's always learning and growing. Right now, I'm focused on Python and data structures.
     
