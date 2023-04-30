@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shorya Tyagi</h1>
 <div align="center">
 
-<img align="center" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" style="border-radius: 80%;" height=300px/>
+<img align="center" src="https://camo.githubusercontent.com/70c3e1ca2d72947a868b0d971f59018bb137d11e9880c3e7b9eea0828257cf70/68747470733a2f2f7777772e74656368757a2e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f30382f486f772d746f2d686972652d7765622d646576656c6f706572732d66726f6d2d496e6469612e676966" style="border-radius: 80%;" height=300px/>
 </div>
 
 <h3 align="center">A Tech Enthusiast and Developer from India</h3>
