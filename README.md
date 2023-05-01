@@ -78,10 +78,11 @@
 </p>
 -->
 
-## 😂 Random Dev Meme
+<!--## 😂 Random Dev Meme
 <p align="center">
   <img src="https://rm.up.railway.app/" width="512px"/>
 </p>
+-->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
