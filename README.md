@@ -3,9 +3,7 @@
 
 <img align="center" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" style="border-radius: 80%;" height=300px width=700px/>
 </div>
-
 <h2 align="center">Pursuing B.Tech in Computer Science from MIET</h2>
-<hr>
 
 <p align="center"> 
   Visitor count<br><br>
