@@ -42,11 +42,11 @@
 </p>
 -->
 
-
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shoryatyagi&theme=react-dark&hide_border=true"/>
 </p>
-
+-->
 <p align='center'>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoryatyagi&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&show_icons=true" />
