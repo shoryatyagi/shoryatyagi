@@ -25,8 +25,8 @@
 
 
 # 📫 Connect With Me:
-
-- ***LinkedIn*** - **https://www.linkedin.com/in/shorya-tyagi**
+<a href="https://www.linkedin.com/in/shorya-tyagi"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+- ***LinkedIn*** - **https://www.linkedin.com/in/shorya-tyagi** 
 - ***Instagram*** - **https://www.instagram.com/shorya_tyagi_29**
 - ***Twitter*** - **https://twitter.com/shorya_mindset**
 
