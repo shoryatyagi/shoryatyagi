@@ -58,11 +58,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoryatyagi&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
-
+<!--
 <p align ="center">
    <img src="github-contribution-grid-snake.svg"/>
     </p>
-
+-->
 <!--
 ## 🐦 Latest Tweet 
 <p align="center">
