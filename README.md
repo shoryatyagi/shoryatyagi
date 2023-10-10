@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shorya Tyagi</h1>
+<h1 align="center">Hi 👋, I'm Shorya Tyagi (Enthusiastic Programmer)</h1>
 <div align="center">
 
 <img align="center" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" style="border-radius: 80%;" height=300px width=700px/>
 </div>
-<h2 align="center">Pursuing B.Tech in Computer Science from MIET</h2>
+<h2 align="center">Pursuing B.Tech in Computer Science at MIET ,Meerut</h2>
 
 <p align="center"> 
   Visitor count<br><br>
