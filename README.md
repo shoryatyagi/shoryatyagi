@@ -28,7 +28,7 @@
 
 # 📫 Connect With Me:
 
-- ***LinkedIn*** - **https://www.linkedin.com/in/bidyasagar-mohapatra-b86581203/**
+- ***LinkedIn*** - **https://www.linkedin.com/in/shorya-tyagi**
 - ***Instagram*** - **https://www.instagram.com/shorya_tyagi_29**
 - ***Twitter*** - **https://twitter.com/shorya_mindset**
 
